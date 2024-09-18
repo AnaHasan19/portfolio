@@ -32,7 +32,7 @@ li a {
 }
 body {
     background-color: #FFCCD5;
-    background-size: contain;
+    background-size: cover;
     background-image: url(https://i.pinimg.com/564x/3d/67/0b/3d670bf7e83ea90e52369662c5170dac.jpg)
 }
 li a:hover {
